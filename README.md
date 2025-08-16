@@ -6,33 +6,6 @@
 	<meta name="generator" content="LibreOffice 24.8.7.2 (Linux)"/>
 	<meta name="created" content="2025-08-16T14:01:15.403203078"/>
 	<meta name="changed" content="2025-08-16T14:01:58.589920966"/>
-	<style type="text/css">
-		@page { size: 21cm 29.7cm; margin: 2cm }
-		p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }
-		h1 { margin-bottom: 0.21cm; background: transparent; page-break-after: avoid }
-		h1.western { font-family: "DejaVu Serif", serif; font-size: 24pt; font-weight: bold }
-		h1.cjk { font-family: "Noto Serif CJK SC"; font-size: 24pt; font-weight: bold }
-		h1.ctl { font-family: "FreeSans"; font-size: 24pt; font-weight: bold }
-		h2 { margin-top: 0.35cm; margin-bottom: 0.21cm; background: transparent; page-break-after: avoid }
-		h2.western { font-family: "DejaVu Serif", serif; font-size: 18pt; font-weight: bold }
-		h2.cjk { font-family: "Noto Serif CJK SC"; font-size: 18pt; font-weight: bold }
-		h2.ctl { font-family: "FreeSans"; font-size: 18pt; font-weight: bold }
-		blockquote { margin-left: 1cm; margin-right: 1cm; background: transparent }
-		h3 { margin-top: 0.25cm; margin-bottom: 0.21cm; background: transparent; page-break-after: avoid }
-		h3.western { font-family: "DejaVu Serif", serif; font-size: 14pt; font-weight: bold }
-		h3.cjk { font-family: "Noto Serif CJK SC"; font-size: 14pt; font-weight: bold }
-		h3.ctl { font-family: "FreeSans"; font-size: 14pt; font-weight: bold }
-		pre { background: transparent }
-		pre.western { font-family: "DejaVu Sans Mono", monospace; font-size: 10pt }
-		pre.cjk { font-family: "Noto Sans Mono CJK SC", monospace; font-size: 10pt }
-		pre.ctl { font-family: "DejaVu Sans Mono", monospace; font-size: 10pt }
-		strong { font-weight: bold }
-		code.western { font-family: "DejaVu Sans Mono", monospace }
-		code.cjk { font-family: "Noto Sans Mono CJK SC", monospace }
-		code.ctl { font-family: "DejaVu Sans Mono", monospace }
-		a:link { color: #000080; text-decoration: underline }
-		em { font-style: italic }
-	</style>
 </head>
 <body lang="de-DE" link="#000080" vlink="#800000" dir="ltr"><h1 class="western">
 Kismet Probe Monitor</h1>
